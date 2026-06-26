@@ -54,11 +54,11 @@
 
 ## Основные методы анализа
 
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Outlier Detection (IQR)
-- Time Series Analysis
-- Data Visualization
+- исследовательский анализ данных (EDA);
+- создание новых признаков;
+- выявление и обработка выбросов (IQR);
+- анализ временных рядов;
+- визуализация данных.
 
 ## Результаты
 
